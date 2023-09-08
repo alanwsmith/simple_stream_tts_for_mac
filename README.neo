@@ -1,0 +1,25 @@
+-- title
+
+Simple TTS For Twitch
+
+-- h2
+
+Install
+
+-- list
+
+- Change the account from "thebotofalan"
+to your account in the source
+
+- Do `cargo run``
+
+
+-- h2
+
+Voices
+
+The voice list is here:
+
+https://gist.github.com/mculp/4b95752e25c456d425c6
+
+
