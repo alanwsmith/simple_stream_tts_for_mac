@@ -13,6 +13,19 @@ to your account in the source
 
 - Do `cargo run``
 
+-- h2
+
+Usage
+
+-- list
+
+- hook up your audio to OBS or whatever
+your stream software is
+
+- Any chat that comes in with the `!talk``
+command will speak
+
+
 
 -- h2
 
